@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1558770033 source:c:\users\saif ali\desktop\gps\gps system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"addLocationToFile.h"
+	"viewAllLocations.h"
+	"googleMapLocation.h"
+	"locationEditor.h"
+
+1558770543 c:\users\saif ali\desktop\gps\gps system\addlocationtofile.h
+
+1558771053 c:\users\saif ali\desktop\gps\gps system\viewalllocations.h
+
+1558758086 c:\users\saif ali\desktop\gps\gps system\googlemaplocation.h
+
+1558766158 c:\users\saif ali\desktop\gps\gps system\locationeditor.h
+
+1558767368 c:\users\saif ali\desktop\gps\gps system\fileexists.h
+	<string.h>
+
